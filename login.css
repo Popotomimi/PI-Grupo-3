@@ -1,0 +1,51 @@
+div{
+    padding: 15px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+p.status{
+    background-color: rgb(230, 247, 83);
+    border: solid 2px black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+p.resolvido{
+    background-color: rgb(90, 223, 86);
+    border: solid 2px black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.chamado{
+    width: 350px;
+    height: 450px;
+    background-color: rgba(190, 222, 233, 0.671);
+    padding: 0px 0px 350px 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.message {
+    width: 160px;
+    animation: digitando 3s steps(25), blink .4s infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid;
+}
+
+@keyframes digitando {
+    from {
+        width: 0;
+    }
+}
+
+@keyframes blink {
+    40%{
+        border-color: rgba(255, 255, 255, 0.2);
+    }
+}
