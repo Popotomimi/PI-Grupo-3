@@ -35,6 +35,8 @@ usuários que é a (primary key).
 Feito isso basta abrir o navegador colocar na URL http://localhost/login.php e testar nosso código.
 </p>
 
+<a href="https://www.youtube.com/watch?v=eqdGbjNmnqQ">Vídeo do softaware funcionando</a>
+
 > Aviso: Software em desenvolvimento, todos os html que constam no repositório, são as partes dos técnicos que ainda estamos desenvolvendo.
 
 <h1> Membros do grupo </h1>
