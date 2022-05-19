@@ -3,7 +3,6 @@
 ![software-de-gestao-1-scaled](https://user-images.githubusercontent.com/92410083/166390444-f2e587a9-0453-4909-9308-15fd9569b0ad.jpg)
 
 > Software desenvolvido em PHP para abertura de chamados de help-desk.
-> Website developed for a test for Front-End developer vacancy.
 
 ## Tecnologias usadas: (technologies Used)
 
